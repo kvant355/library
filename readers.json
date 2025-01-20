@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "first_name": "Ivan",
+        "last_name": "Ivanov"
+    },
+    {
+        "id": 2,
+        "first_name": "Alexandr",
+        "last_name": "Petrov"
+    },
+    {
+        "id": 3,
+        "first_name": "Artyom",
+        "last_name": "Tihonov"
+    },
+    {
+        "id": 4,
+        "first_name": "Mikhail",
+        "last_name": "Sidorov"
+    },
+    {
+        "id": 5,
+        "first_name": "Anatoliy",
+        "last_name": "Lukin"
+    },
+    {
+        "id": 6,
+        "first_name": "Olga",
+        "last_name": "Goncharova"
+    },
+    {
+        "id": 7,
+        "first_name": "Irina",
+        "last_name": "Gordeeva"
+    }
+
+]
